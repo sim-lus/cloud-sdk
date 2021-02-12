@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/SAP/cloud-sdk/blog</id>
+    <id>https://sap.github.io/blog</id>
     <title>SAP Cloud SDK Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/SAP/cloud-sdk/blog"/>
+    <link rel="alternate" href="https://sap.github.io/blog"/>
     <subtitle>SAP Cloud SDK Blog</subtitle>
-    <icon>https://github.com/SAP/cloud-sdk/img/favicon.ico</icon>
+    <icon>https://sap.github.io/img/favicon.ico</icon>
 </feed>
